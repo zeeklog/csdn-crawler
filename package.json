@@ -1,6 +1,6 @@
 {
   "name": "csdn-crawler",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A JS library for Crawl CSDN Article.",
   "main": "index.js",
   "keywords": [
@@ -14,9 +14,9 @@
   "author": "Neo <neo@usd.dog>",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ethwillupto10000/cadnCrawler.git"
+    "url": "git+https://github.com/ethwillupto10000/csdn-crawler.git"
   },
-  "homepage": "https://github.com/ethwillupto10000/cadnCrawler#README",
+  "homepage": "https://github.com/ethwillupto10000/csdn-crawler#README",
   "license": "MIT",
   "scripts": {
     "release": "cross-env RELEASE_MODE=true npm publish",
@@ -60,7 +60,7 @@
     "webpack-dev-server": "3.7.1"
   },
   "bugs": {
-    "url": "https://github.com/ethwillupto10000/cadnCrawler/issues"
+    "url": "https://github.com/ethwillupto10000/csdn-crawler/issues"
   },
   "directories": {
     "lib": "lib"
