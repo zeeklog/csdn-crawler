@@ -80,7 +80,7 @@ async function exec (options, callback) {
               continue
             }
             const $detail = cheerio.load(detail);
-            let baseContent = $detail(options.contentNodeIdentify).html()
+            let baseContent = $detail(options.contentNodeIdentify || '#article_content').html()
             const $ = cheerio.load(baseContent);
             // Delete unused element
             $('.xs0').remove();
