@@ -1,0 +1,9 @@
+test.md
+draft
+.idea
+.DS_Store
+Thumbs.db
+dist
+*.log
+node_modules/
+#lib
