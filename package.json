@@ -1,7 +1,7 @@
 {
   "name": "csdn-crawler",
-  "version": "1.0.2",
-  "description": "A JS library for Crawl CSDN Article.",
+  "version": "1.0.4",
+  "description": "一个专门用于爬取csdn文章的爬虫/A JS library for Crawl CSDN Article.",
   "main": "index.js",
   "keywords": [
     "csdnCrawler",

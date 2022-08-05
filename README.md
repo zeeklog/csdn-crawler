@@ -7,9 +7,9 @@
 
 ### 为什么写这个？ / Why would I code this?
 
-> I want some data to fill my database for big-data's test, but it seems hard to me to write it myself(because I am so lazy).
-> May be so many coder face the same things like me. So, let me make this job become easier.
-> WARN: This repo is only for test and study, do not use this to run Pressure-Test on csdn.com. 
+- > I want some data to fill my database for big-data's test, but it seems hard to me to write it myself(because I am so lazy).
+- > May be so many coder face the same things like me. So, let me make this job become easier.
+- > WARN: This repo is only for test and study, do not use this to run Pressure-Test on csdn.com. 
 
 ### 使用指南 / Usages
 
