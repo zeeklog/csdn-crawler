@@ -11,6 +11,22 @@
 - > May be so many coder face the same things like me. So, let me make this job become easier.
 - > WARN: This repo is only for test and study, do not use this to run Pressure-Test on csdn.com. 
 
+### 实现原理 / How to fuck this
+
+```shell
+# dependencies
+ cheerio
+ html-to-md
+ pinyin
+ request-promise
+ 
+ # 使用request-primose获取目标文档
+ # 通过cheerio解析HTML文档，获取文章内容
+ # 使用html-to-md 解析HTML内容， 转为md
+ # 使用pinyin生成文章alias
+ 
+```
+
 ### 使用指南 / Usages
 
 #### 1、Fill you own config
